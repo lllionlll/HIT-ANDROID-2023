@@ -1,1 +1,1 @@
-![](img.png)
+<img src="img.png" width="400">
