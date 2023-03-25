@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="name">jacob_w</string>
+    <string name="numPost">54</string>
+    <string name="post">Posts</string>
+    <string name="numFollow">834</string>
+    <string name="follow">Followers</string>
+    <string name="numFollowing">162</string>
+    <string name="following">Following</string>
+    <string name="userName">Jacob West</string>
+    <string name="job">Digital goodies designer</string>
+    <string name="id">\@PixelSense</string>
+    <string name="description">Everything is designed</string>
+    <string name="editProfile">Edit Profile</string>
+    <string name="txtNew">New</string>
+    <string name="friend">Friends</string>
+    <string name="sport">Sport</string>
+    <string name="design">Design</string>
+
+</resources>
